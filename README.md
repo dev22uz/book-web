@@ -1,7 +1,7 @@
 # E-commerce app with Admin Dashboard using React Redux-toolkit 
 
 ## Live Demo
-   
+// book-web-alpha.vercel.app // Qandaydir sabablar bilan ushubu havoladagi sayt ishlamayotgan bo'lsa video-havola: https://drob.prodev22.com/drive/s/voQS1UJ8dwJKiUqXhfjccK5eC9kZJl
 
 
 ## installation   
